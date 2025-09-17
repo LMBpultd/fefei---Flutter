@@ -1,0 +1,41 @@
+name: fefei
+description: "Lince Binu Mattathil"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  share_plus: ^7.2.1
+  file_selector: ^1.0.0
+  path_provider: ^2.1.2
+  open_file: ^3.3.2
+  pdfx: ^2.5.0
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.13.1
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/icon.png"
+
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: UnifrakturMaguntia
+      fonts:
+        - asset: fonts/UnifrakturMaguntia-Regular.ttf
+    - family: Playfair Display
+      fonts:
+        - asset: fonts/PlayfairDisplay-Regular.ttf
+
+  assets:
+    - assets/qr/
+    - assets/mydocs/
