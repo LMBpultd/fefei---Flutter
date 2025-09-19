@@ -9,8 +9,11 @@ icon change
 
 |Appname : fefei 
 	pakage name : com.lmbpultd.fefei|
+ 
+<br><br>
 
-My Documents Its My own creation that helps to store your important pdf or image otherwise the main screen can store any ttext data
+| My Documents Its My own creation that helps to store your important pdf or image otherwise the main screen can store any ttext data |
 
-<a href="My Documents/Apk/app-arm64-v8a-release.apk">app-arm64-v8a-release.apk</a>
-<a href="My%20Documents/Apk/app-arm64-v8a-release.apk">app-arm64-v8a-release.apk</a>
+|<a href="My Documents/Apk/app-arm64-v8a-release.apk">app-arm64-v8a-release.apk</a>| <br>
+|<a href="My%20Documents/Apk/app-armeabi-v7a-release.apk">app-armeabi-v7a-release.apk</a>|<br>
+|<a href="My%20Documents/Apk/app-x86_64-release.apk">app-x86_64-release.apk</a>|
